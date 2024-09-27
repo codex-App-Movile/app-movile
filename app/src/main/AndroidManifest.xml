@@ -13,7 +13,19 @@
         android:theme="@style/Theme.MusicTime"
         tools:targetApi="31">
         <activity
+            android:name=".profileArtisticTeamActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WorkerValidationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LogInActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
