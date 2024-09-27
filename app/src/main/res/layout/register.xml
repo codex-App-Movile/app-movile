@@ -19,7 +19,7 @@
         <ImageView
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@drawable/screwdriver_wrench_solid"
+            android:src="@mipmap/ic_launcher_logo_background"
             android:layout_gravity="center"
             android:layout_marginTop="52dp"
             />

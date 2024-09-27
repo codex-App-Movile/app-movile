@@ -32,7 +32,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Tecnico"
+            android:text="Musico"
             android:textAlignment="center"
             android:fontFamily="@font/roboto_medium"
             android:textColor="#4D4D4D"
@@ -97,7 +97,7 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_marginRight="8dp"
-                android:src="@drawable/baseline_build_24"/>
+                android:src="@mipmap/ic_launcher_logo_background"/>
 
             <LinearLayout
                 android:layout_width="126dp"
